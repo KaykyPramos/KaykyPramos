@@ -5,4 +5,4 @@
   <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-![Snake animation](https:///github.com/KaykyPramos/KaykyPramos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KaykyPramos/KaykyPramos/blob/output/github-contribution-grid-snake.svg)
